@@ -1,0 +1,25 @@
+{
+    "name": "Drawing Pad",
+    "version": "1.0.0",
+    "description": "The easy way to create desktop App",
+    "main": "views/main.html",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "window": {
+      "title": "Drawing Pad",
+      "icon": "./assets/icon.png",
+      "toolbar": true,
+      "width": 1000,
+      "height": 1000,
+      "min_width": 1000,
+      "min_height": 1000,
+      "max_width": 1000,
+      "max_height": 1000,
+      "position": "mouse"
+    },
+    "keywords": [],
+    "author": "SHIJIE ZHOU",
+    "license": "ISC"
+  }
+  
